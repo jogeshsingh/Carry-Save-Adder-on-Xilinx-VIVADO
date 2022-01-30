@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/Vivado/2020.2/examples/carry_save_adder.srcs/sources_1/new/Full_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Full_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/Vivado/2020.2/examples/carry_save_adder.srcs/sources_1/new/RCA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RCA
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/Vivado/2020.2/examples/carry_save_adder.srcs/sources_1/new/Top_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/Vivado/2020.2/examples/carry_save_adder.srcs/sim_1/new/Top_module_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_module_tb
